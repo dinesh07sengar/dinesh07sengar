@@ -4,7 +4,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 </h4>
 
 
-<h1 >🎬 Favorite anime: Fullmetal Alchemist: Brotherhood, Attack on Titan, Naruto</h1>
+<h3 >🎬 Favorite anime: Fullmetal Alchemist: Brotherhood, Attack on Titan, Naruto</h3>
 
 
 <br/>

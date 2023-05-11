@@ -4,7 +4,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 </h4>
 
 
-<h3 >🎬 Favorite anime: Fullmetal Alchemist: Brotherhood, Attack on Titan, Naruto</h3>
+<h4 >🎬 Favorite anime: Demon Slayer, Attack on Titan, Naruto</h4>
 
 
 <br/>
@@ -36,8 +36,10 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 
 ## Connect with me:
 <p align="left">  
-<a href="https://www.linkedin.com/in/vishal-durge-745275210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-durge-745275210/" height="30" width="40" /></a> 
-<a href="https://twitter.com/fullstuckVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinesh-sengar-199a98201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-sengar-199a98201/" height="30" width="40" /></a> 
+<a href="https://twitter.com/DineshSengar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dinesh_sengar_/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
+
 </p>
 
 ## ❤ Views and Followers

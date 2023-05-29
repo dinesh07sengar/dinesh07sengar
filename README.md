@@ -49,7 +49,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 </a>
 <a href="https://github.com/dinesh07sengar?tab=followers"><img src="https://img.shields.io/github/followers/dinesh07sengar?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
-### [Portfolio](https://dinesh07sengar.github.io) 
+### [Portfolio](https://dinesh07sengar.github.io/) 
 
 
 
